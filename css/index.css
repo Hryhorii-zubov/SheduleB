@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(255, 0, 0);
+    
+}
+
+
+h2 {
+    padding: 20px;
+    background-color: rgba(236, 236, 236, 0.767);
+    border-radius: 30px;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    border-style: solid; /* додає видиму рамку */
+}
+
+
+ 
